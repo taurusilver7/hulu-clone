@@ -2,6 +2,18 @@
 
 > Hulu is an American subscription video on demand service fully controlled and majority-owned by The Walt Disney Company, with Comcast as an equity stakeholder.
 
+[logo](https://press.hulu.com/wp-content/uploads/2020/02/hulu-white.png?fit=1280%2C680)
+
+## Components
+
+- Header
+- Navbar
+- Results (VideoCard)
+
+- The animation used is `react-flip-move`.
+- The text truncating of the overview is created using `react-text-truncate`.
+- The API requests are sent with axios.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
