@@ -1,7 +1,10 @@
 # Hulu Clone
+> A movie on demand application powered by react-reducx, styled using material-ui & hosted on firebase.
 
+## About the Application
 > Hulu is an American subscription video on demand service fully controlled and majority-owned by The Walt Disney Company, with Comcast as an equity stakeholder.
 
+## Stock
 [logo](https://press.hulu.com/wp-content/uploads/2020/02/hulu-white.png?fit=1280%2C680)
 
 ## Components
